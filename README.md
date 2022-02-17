@@ -1,7 +1,7 @@
 # WordleSolver
 Solving Wordle daily puzzle using Python. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aminrd/WordleSolver/new/main/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminrd/WordleSolver/blob/main/run_me.ipynb)
 
 
 Run all cells in `.ipynb` file. Function `solve()` will suggest you and based on the feedback you tell it, it will trim the list of words and suggest you another one. 
