@@ -1,11 +1,13 @@
 # WordleSolver
 Solving daily puzzle games using Python. 
 
-[Play Wordle](https://www.nytimes.com/games/wordle/index.html)
+[Play Wordle](https://www.nytimes.com/games/wordle/index.html) 
+Solve it with: 
 [![Open In Colab -- Wordle](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminrd/WordleSolver/blob/main/run_me.ipynb)
 
 
 [Play Nerdle](https://nerdlegame.com/)
+Solve it with: 
 [![Open In Colab -- Wordle](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminrd/WordleSolver/blob/main/nerdle_solver.ipynb)
 
 
